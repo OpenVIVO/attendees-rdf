@@ -1,0 +1,45 @@
+@prefix ns1: <http://www.w3.org/2006/vcard/ns#> .
+@prefix ns2: <http://vivoweb.org/ontology/core#> .
+@prefix ns3: <http://purl.obolibrary.org/obo/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://openvivo.org/a/eventFORCE2016> a <http://purl.org/ontology/bibo/Conference> ;
+    rdfs:label "Force2016 Conference" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/eventFORCE2016-vcard> ;
+    ns2:dateTimeInterval <http://openvivo.org/a/eventFORCE2016-dti> .
+
+<http://openvivo.org/a/eventFORCE2016-dti> a ns2:dateTimeInterval ;
+    ns2:end <http://openvivo.org/a/date2016-04-20> ;
+    ns2:start <http://openvivo.org/a/date2016-04-17> .
+
+<http://openvivo.org/a/eventFORCE2016-vcard> a ns1:Kind ;
+    ns3:ARG_2000029 <http://openvivo.org/a/eventFORCE2016> ;
+    ns1:hasURL <http://openvivo.org/a/eventFORCE2016-vcard-url> .
+
+<http://openvivo.org/a/eventFORCE2016-vcard-url> a ns1:URL ;
+    rdfs:label "Conference Home Page" ;
+    ns2:rank 1 ;
+    ns1:url "https://www.force11.org/meetings/force2016"^^xsd:anyURI .
+
+<http://openvivo.org/a/eventVIVO2016> a <http://purl.org/ontology/bibo/Conference> ;
+    rdfs:label "VIVO Conference 2016" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/eventVIVO2016-vcard> ;
+    ns2:dateTimeInterval <http://openvivo.org/a/eventVIVO2016-dti> .
+
+<http://openvivo.org/a/eventVIVO2016-dti> a ns2:dateTimeInterval ;
+    ns2:end <http://openvivo.org/a/date2016-08-19> ;
+    ns2:start <http://openvivo.org/a/date2016-08-17> .
+
+<http://openvivo.org/a/eventVIVO2016-vcard> a ns1:Kind ;
+    ns3:ARG_2000029 <http://openvivo.org/a/eventVIVO2016> ;
+    ns1:hasURL <http://openvivo.org/a/eventVIVO2016-vcard-url> .
+
+<http://openvivo.org/a/eventVIVO2016-vcard-url> a ns1:URL ;
+    rdfs:label "Conference Home Page" ;
+    ns2:rank 1 ;
+    ns1:url "http://vivoconference.org"^^xsd:anyURI .
+
+
