@@ -24,6 +24,7 @@ uri_prefix = 'http://openvivo.org/a/doi'
 date_prefix = 'http://openvivo.org/a/date'
 attendee_prefix = 'http://openvivo.org/a/orcid'
 vcard_prefix = 'http://openvivo.org/a/vcard'
+orcid_prefix = 'http://orcid.org/'
 
 VIVO = Namespace('http://vivoweb.org/ontology/core#')
 FOAF = Namespace('http://xmlns.com/foaf/0.1/')
@@ -62,6 +63,8 @@ def make_attendee(data_line):
         attendee['additional_name'] = name_parts[1]
         attendee['family_name'] = name_parts[2:]
 
+    attendee['full_name'] = attendee['family_name'] + ', ' + attendee['given_name'] + ' ' + attendee['additional_name']
+
     attendee['orcid'] = attendee['orcid'].strip()
     attendee['orcid'] = attendee['orcid'].replace('http://orcid.org/', '')
     attendee['orcid'] = attendee['orcid'].replace('orcid.org/', '')
@@ -86,7 +89,7 @@ def make_attendee_rdf(attendee, event_uri):
         attendee_uri = URIRef(attendee_prefix + attendee['orcid'])
         g.add((attendee_uri, RDF.type, FOAF.Person))
         g.add((attendee_uri, RDFS.label, Literal(attendee['full_name'])))
-        g.add((attendee_uri, VIVO.orcidID, Literal(attendee['orcid'])))
+        g.add((attendee_uri, VIVO.orcidId, Literal(orcid_prefix + attendee['orcid'], datatype=XSD.anyURI)))
 
         #   Make a vcard for the attendee.  The vcard has the name of the attendee
 
