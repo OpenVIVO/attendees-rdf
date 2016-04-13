@@ -91,7 +91,7 @@ def make_attendee_rdf(attendee, event_uri):
         #   Make a vcard for the attendee.  The vcard has the name of the attendee
 
         vcard_uri = URIRef(str(attendee_uri) + '-vcard')
-        g.add((attendee_uri, OBO.ARG_0000028, vcard_uri))
+        g.add((attendee_uri, OBO.ARG_2000028, vcard_uri))
         g.add((vcard_uri, RDF.type, VCARD.Individual))
         name_uri = URIRef(str(vcard_uri) + '-name')
         g.add((name_uri, RDF.type, VCARD.Name))
