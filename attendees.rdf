@@ -7,964 +7,964 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://openvivo.org/a/orcid0000-0001-5109-3700> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Laure Haak" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-5109-3700-vcard> ;
+    rdfs:label "Haak, Laure" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-5109-3700-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-5109-3700-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-5109-3700" .
+    ns2:orcidId "http://orcid.org/0000-0001-5109-3700"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-5203-6986> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Chris Leonard" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-5203-6986-vcard> ;
+    rdfs:label "Leonard, Chris" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-5203-6986-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-5203-6986-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-5203-6986" .
+    ns2:orcidId "http://orcid.org/0000-0001-5203-6986"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-5208-3432> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Nicole Vasilevsky" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-5208-3432-vcard> ;
+    rdfs:label "Vasilevsky, Nicole" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-5208-3432-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-5208-3432-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-5208-3432" .
+    ns2:orcidId "http://orcid.org/0000-0001-5208-3432"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-5212-7052> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Jeffrey Grethe" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-5212-7052-vcard> ;
+    rdfs:label "Grethe, Jeffrey" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-5212-7052-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-5212-7052-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-5212-7052" .
+    ns2:orcidId "http://orcid.org/0000-0001-5212-7052"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-5221-6880> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Christopher Belter" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-5221-6880-vcard> ;
+    rdfs:label "Belter, Christopher" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-5221-6880-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-5221-6880-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-5221-6880" .
+    ns2:orcidId "http://orcid.org/0000-0001-5221-6880"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-5306-5690> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Susanna-Assunta Sansone" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-5306-5690-vcard> ;
+    rdfs:label "Sansone, Susanna-Assunta" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-5306-5690-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-5306-5690-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-5306-5690" .
+    ns2:orcidId "http://orcid.org/0000-0001-5306-5690"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-5494-4806> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Gail Clement" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-5494-4806-vcard> ;
+    rdfs:label "Clement, Gail" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-5494-4806-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-5494-4806-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-5494-4806" .
+    ns2:orcidId "http://orcid.org/0000-0001-5494-4806"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-5581-5678> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Cynthia Hudson-Vitale" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-5581-5678-vcard> ;
+    rdfs:label "Hudson-Vitale, Cynthia" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-5581-5678-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-5581-5678-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-5581-5678" .
+    ns2:orcidId "http://orcid.org/0000-0001-5581-5678"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-5636-0433> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Ashley E. Sands" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-5636-0433-vcard> ;
+    rdfs:label "Sands, Ashley E" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-5636-0433-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-5636-0433-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-5636-0433" .
+    ns2:orcidId "http://orcid.org/0000-0001-5636-0433"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-5795-7629> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Stefan Kramer" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-5795-7629-vcard> ;
+    rdfs:label "Kramer, Stefan" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-5795-7629-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-5795-7629-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-5795-7629" .
+    ns2:orcidId "http://orcid.org/0000-0001-5795-7629"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-5796-2727> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Jeroen Bosman" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-5796-2727-vcard> ;
+    rdfs:label "Bosman, Jeroen" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-5796-2727-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-5796-2727-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-5796-2727" .
+    ns2:orcidId "http://orcid.org/0000-0001-5796-2727"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-5934-7525> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Daniel S Katz" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-5934-7525-vcard> ;
+    rdfs:label "Katz, Daniel S" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-5934-7525-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-5934-7525-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-5934-7525" .
+    ns2:orcidId "http://orcid.org/0000-0001-5934-7525"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-5951-5955> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Jean Davidson" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-5951-5955-vcard> ;
+    rdfs:label "Davidson, Jean" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-5951-5955-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-5951-5955-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-5951-5955" .
+    ns2:orcidId "http://orcid.org/0000-0001-5951-5955"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-6121-9899> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Adriana Popescu" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-6121-9899-vcard> ;
+    rdfs:label "Popescu, Adriana" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-6121-9899-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-6121-9899-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-6121-9899" .
+    ns2:orcidId "http://orcid.org/0000-0001-6121-9899"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-6187-6610> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Jason Priem" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-6187-6610-vcard> ;
+    rdfs:label "Priem, Jason" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-6187-6610-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-6187-6610-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-6187-6610" .
+    ns2:orcidId "http://orcid.org/0000-0001-6187-6610"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-6238-3498> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Andrea Thomer" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-6238-3498-vcard> ;
+    rdfs:label "Thomer, Andrea" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-6238-3498-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-6238-3498-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-6238-3498" .
+    ns2:orcidId "http://orcid.org/0000-0001-6238-3498"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-6304-7349> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Pierre Montagano" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-6304-7349-vcard> ;
+    rdfs:label "Montagano, Pierre" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-6304-7349-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-6304-7349-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-6304-7349" .
+    ns2:orcidId "http://orcid.org/0000-0001-6304-7349"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-6331-4451> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Karen Gutzman" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-6331-4451-vcard> ;
+    rdfs:label "Gutzman, Karen" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-6331-4451-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-6331-4451-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-6331-4451" .
+    ns2:orcidId "http://orcid.org/0000-0001-6331-4451"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-6444-1436> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Scott Edmunds" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-6444-1436-vcard> ;
+    rdfs:label "Edmunds, Scott" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-6444-1436-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-6444-1436-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-6444-1436" .
+    ns2:orcidId "http://orcid.org/0000-0001-6444-1436"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-6593-7476> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Laura Cox" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-6593-7476-vcard> ;
+    rdfs:label "Cox, Laura" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-6593-7476-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-6593-7476-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-6593-7476" .
+    ns2:orcidId "http://orcid.org/0000-0001-6593-7476"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-6689-0104> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Neil McKenna" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-6689-0104-vcard> ;
+    rdfs:label "McKenna, Neil" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-6689-0104-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-6689-0104-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-6689-0104" .
+    ns2:orcidId "http://orcid.org/0000-0001-6689-0104"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-7082-6340> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "David Minor" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-7082-6340-vcard> ;
+    rdfs:label "Minor, David" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-7082-6340-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-7082-6340-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-7082-6340" .
+    ns2:orcidId "http://orcid.org/0000-0001-7082-6340"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-7237-0797> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Mark Patterson" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-7237-0797-vcard> ;
+    rdfs:label "Patterson, Mark" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-7237-0797-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-7237-0797-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-7237-0797" .
+    ns2:orcidId "http://orcid.org/0000-0001-7237-0797"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-7377-163X> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Marisa Conte" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-7377-163X-vcard> ;
+    rdfs:label "Conte, Marisa" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-7377-163X-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-7377-163X-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-7377-163X" .
+    ns2:orcidId "http://orcid.org/0000-0001-7377-163X"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-7382-6960> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Micah Altman" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-7382-6960-vcard> ;
+    rdfs:label "Altman, Micah" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-7382-6960-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-7382-6960-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-7382-6960" .
+    ns2:orcidId "http://orcid.org/0000-0001-7382-6960"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-7604-8041> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "John Kunze" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-7604-8041-vcard> ;
+    rdfs:label "Kunze, John" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-7604-8041-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-7604-8041-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-7604-8041" .
+    ns2:orcidId "http://orcid.org/0000-0001-7604-8041"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-7707-3396> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Michelle Armstrong" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-7707-3396-vcard> ;
+    rdfs:label "Armstrong, Michelle" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-7707-3396-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-7707-3396-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-7707-3396" .
+    ns2:orcidId "http://orcid.org/0000-0001-7707-3396"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-7933-1029> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Charlie Rapple" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-7933-1029-vcard> ;
+    rdfs:label "Rapple, Charlie" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-7933-1029-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-7933-1029-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-7933-1029" .
+    ns2:orcidId "http://orcid.org/0000-0001-7933-1029"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-8122-6164> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Chris Shaffer" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-8122-6164-vcard> ;
+    rdfs:label "Shaffer, Chris" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-8122-6164-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-8122-6164-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-8122-6164" .
+    ns2:orcidId "http://orcid.org/0000-0001-8122-6164"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-8249-7388> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Sebastian Karcher" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-8249-7388-vcard> ;
+    rdfs:label "Karcher, Sebastian" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-8249-7388-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-8249-7388-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-8249-7388" .
+    ns2:orcidId "http://orcid.org/0000-0001-8249-7388"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-8420-5254> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Kristi Holmes" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-8420-5254-vcard> ;
+    rdfs:label "Holmes, Kristi" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-8420-5254-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-8420-5254-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-8420-5254" .
+    ns2:orcidId "http://orcid.org/0000-0001-8420-5254"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-8522-334X> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Judith Blake" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-8522-334X-vcard> ;
+    rdfs:label "Blake, Judith" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-8522-334X-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-8522-334X-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-8522-334X" .
+    ns2:orcidId "http://orcid.org/0000-0001-8522-334X"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-9064-531X> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Norbert Schuff" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-9064-531X-vcard> ;
+    rdfs:label "Schuff, Norbert" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-9064-531X-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-9064-531X-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-9064-531X" .
+    ns2:orcidId "http://orcid.org/0000-0001-9064-531X"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-9074-3016> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "David De Roure" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-9074-3016-vcard> ;
+    rdfs:label "Roure, David De" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-9074-3016-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-9074-3016-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-9074-3016" .
+    ns2:orcidId "http://orcid.org/0000-0001-9074-3016"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-9114-8737> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Melissa Haendel" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-9114-8737-vcard> ;
+    rdfs:label "Haendel, Melissa" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-9114-8737-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-9114-8737-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-9114-8737" .
+    ns2:orcidId "http://orcid.org/0000-0001-9114-8737"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-9488-1870> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Daniel Mietchen" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-9488-1870-vcard> ;
+    rdfs:label "Mietchen, Daniel" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-9488-1870-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-9488-1870-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-9488-1870" .
+    ns2:orcidId "http://orcid.org/0000-0001-9488-1870"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-9592-2339> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Carly Strasser" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-9592-2339-vcard> ;
+    rdfs:label "Strasser, Carly" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-9592-2339-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-9592-2339-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-9592-2339" .
+    ns2:orcidId "http://orcid.org/0000-0001-9592-2339"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-9623-2225> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Catriona MacCallum" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-9623-2225-vcard> ;
+    rdfs:label "MacCallum, Catriona" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-9623-2225-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-9623-2225-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-9623-2225" .
+    ns2:orcidId "http://orcid.org/0000-0001-9623-2225"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-9677-0947> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Ho Jung Yoo" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-9677-0947-vcard> ;
+    rdfs:label "Yoo, Ho Jung" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-9677-0947-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-9677-0947-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-9677-0947" .
+    ns2:orcidId "http://orcid.org/0000-0001-9677-0947"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-9799-5523> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Edith Wong" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-9799-5523-vcard> ;
+    rdfs:label "Wong, Edith" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-9799-5523-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-9799-5523-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-9799-5523" .
+    ns2:orcidId "http://orcid.org/0000-0001-9799-5523"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-9850-7544> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Marguerite Avery" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-9850-7544-vcard> ;
+    rdfs:label "Avery, Marguerite" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-9850-7544-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-9850-7544-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-9850-7544" .
+    ns2:orcidId "http://orcid.org/0000-0001-9850-7544"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-9998-0114> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Erin Robinson" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0001-9998-0114-vcard> ;
+    rdfs:label "Robinson, Erin" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0001-9998-0114-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0001-9998-0114-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0001-9998-0114" .
+    ns2:orcidId "http://orcid.org/0000-0001-9998-0114"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-0036-9460> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Robert Peters" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-0036-9460-vcard> ;
+    rdfs:label "Peters, Robert" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-0036-9460-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-0036-9460-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-0036-9460" .
+    ns2:orcidId "http://orcid.org/0000-0002-0036-9460"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-0068-716X> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Cameron Neylon" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-0068-716X-vcard> ;
+    rdfs:label "Neylon, Cameron" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-0068-716X-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-0068-716X-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-0068-716X" .
+    ns2:orcidId "http://orcid.org/0000-0002-0068-716X"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-0233-1757> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Karthik Ram" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-0233-1757-vcard> ;
+    rdfs:label "Ram, Karthik" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-0233-1757-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-0233-1757-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-0233-1757" .
+    ns2:orcidId "http://orcid.org/0000-0002-0233-1757"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-0464-3105> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Nina Hedevang" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-0464-3105-vcard> ;
+    rdfs:label "Hedevang, Nina" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-0464-3105-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-0464-3105-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-0464-3105" .
+    ns2:orcidId "http://orcid.org/0000-0002-0464-3105"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-0524-2282> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Remi Rampin" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-0524-2282-vcard> ;
+    rdfs:label "Rampin, Remi" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-0524-2282-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-0524-2282-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-0524-2282" .
+    ns2:orcidId "http://orcid.org/0000-0002-0524-2282"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-0546-8257> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Stacy Konkiel" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-0546-8257-vcard> ;
+    rdfs:label "Konkiel, Stacy" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-0546-8257-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-0546-8257-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-0546-8257" .
+    ns2:orcidId "http://orcid.org/0000-0002-0546-8257"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-0816-138> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Joshua Finnell" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-0816-138-vcard> ;
+    rdfs:label "Finnell, Joshua" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-0816-138-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-0816-138-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-0816-138" .
+    ns2:orcidId "http://orcid.org/0000-0002-0816-138"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-0862-4374> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Greta Pittenger" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-0862-4374-vcard> ;
+    rdfs:label "Pittenger, Greta" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-0862-4374-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-0862-4374-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-0862-4374" .
+    ns2:orcidId "http://orcid.org/0000-0002-0862-4374"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-1059-9446> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Monica Morrison" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-1059-9446-vcard> ;
+    rdfs:label "Morrison, Monica" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-1059-9446-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-1059-9446-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-1059-9446" .
+    ns2:orcidId "http://orcid.org/0000-0002-1059-9446"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-1108-3660> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Chris Shillum" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-1108-3660-vcard> ;
+    rdfs:label "Shillum, Chris" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-1108-3660-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-1108-3660-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-1108-3660" .
+    ns2:orcidId "http://orcid.org/0000-0002-1108-3660"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-1304-8447> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Michael Conlon" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-1304-8447-vcard> ;
+    rdfs:label "Conlon, Michael" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-1304-8447-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-1304-8447-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-1304-8447" .
+    ns2:orcidId "http://orcid.org/0000-0002-1304-8447"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-1384-1365> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Svaj_nas Sajavi_ius" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-1384-1365-vcard> ;
+    rdfs:label "Sajavi_ius, Svaj_nas" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-1384-1365-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-1384-1365-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-1384-1365" .
+    ns2:orcidId "http://orcid.org/0000-0002-1384-1365"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-1433-6782> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Sara Mannheimer" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-1433-6782-vcard> ;
+    rdfs:label "Mannheimer, Sara" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-1433-6782-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-1433-6782-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-1433-6782" .
+    ns2:orcidId "http://orcid.org/0000-0002-1433-6782"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-1572-8059> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Jill Emery" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-1572-8059-vcard> ;
+    rdfs:label "Emery, Jill" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-1572-8059-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-1572-8059-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-1572-8059" .
+    ns2:orcidId "http://orcid.org/0000-0002-1572-8059"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-1643-6242> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Daniel Keith" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-1643-6242-vcard> ;
+    rdfs:label "Keith, Daniel" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-1643-6242-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-1643-6242-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-1643-6242" .
+    ns2:orcidId "http://orcid.org/0000-0002-1643-6242"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-1799-748X> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Eva Winer" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-1799-748X-vcard> ;
+    rdfs:label "Winer, Eva" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-1799-748X-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-1799-748X-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-1799-748X" .
+    ns2:orcidId "http://orcid.org/0000-0002-1799-748X"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-1948-563X> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Emily Lin" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-1948-563X-vcard> ;
+    rdfs:label "Lin, Emily" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-1948-563X-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-1948-563X-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-1948-563X" .
+    ns2:orcidId "http://orcid.org/0000-0002-1948-563X"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-2267-268X> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Kamani Perera" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-2267-268X-vcard> ;
+    rdfs:label "Perera, Kamani" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-2267-268X-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-2267-268X-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-2267-268X" .
+    ns2:orcidId "http://orcid.org/0000-0002-2267-268X"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-2557-6204> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Emma Ganley" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-2557-6204-vcard> ;
+    rdfs:label "Ganley, Emma" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-2557-6204-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-2557-6204-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-2557-6204" .
+    ns2:orcidId "http://orcid.org/0000-0002-2557-6204"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-2606-6599> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Damian Pattinson" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-2606-6599-vcard> ;
+    rdfs:label "Pattinson, Damian" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-2606-6599-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-2606-6599-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-2606-6599" .
+    ns2:orcidId "http://orcid.org/0000-0002-2606-6599"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-2617-8443> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Beau Case" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-2617-8443-vcard> ;
+    rdfs:label "Case, Beau" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-2617-8443-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-2617-8443-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-2617-8443" .
+    ns2:orcidId "http://orcid.org/0000-0002-2617-8443"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-2831-5632> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Chris Mentzel" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-2831-5632-vcard> ;
+    rdfs:label "Mentzel, Chris" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-2831-5632-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-2831-5632-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-2831-5632" .
+    ns2:orcidId "http://orcid.org/0000-0002-2831-5632"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-2897-2907> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Eric Swenson" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-2897-2907-vcard> ;
+    rdfs:label "Swenson, Eric" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-2897-2907-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-2897-2907-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-2897-2907" .
+    ns2:orcidId "http://orcid.org/0000-0002-2897-2907"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-2908-3327> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Anne Thessen" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-2908-3327-vcard> ;
+    rdfs:label "Thessen, Anne" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-2908-3327-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-2908-3327-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-2908-3327" .
+    ns2:orcidId "http://orcid.org/0000-0002-2908-3327"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-2912-8038> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Kevin Hawkins" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-2912-8038-vcard> ;
+    rdfs:label "Hawkins, Kevin" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-2912-8038-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-2912-8038-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-2912-8038" .
+    ns2:orcidId "http://orcid.org/0000-0002-2912-8038"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-2926-9324> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Ian Fore" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-2926-9324-vcard> ;
+    rdfs:label "Fore, Ian" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-2926-9324-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-2926-9324-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-2926-9324" .
+    ns2:orcidId "http://orcid.org/0000-0002-2926-9324"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-3033-9350> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Michael Lauruhn" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-3033-9350-vcard> ;
+    rdfs:label "Lauruhn, Michael" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-3033-9350-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-3033-9350-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-3033-9350" .
+    ns2:orcidId "http://orcid.org/0000-0002-3033-9350"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-3555-2054> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "William Gunn" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-3555-2054-vcard> ;
+    rdfs:label "Gunn, William" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-3555-2054-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-3555-2054-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-3555-2054" .
+    ns2:orcidId "http://orcid.org/0000-0002-3555-2054"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-3636-5939> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Danny Kingsley" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-3636-5939-vcard> ;
+    rdfs:label "Kingsley, Danny" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-3636-5939-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-3636-5939-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-3636-5939" .
+    ns2:orcidId "http://orcid.org/0000-0002-3636-5939"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-3957-2474> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Arfon Smith" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-3957-2474-vcard> ;
+    rdfs:label "Smith, Arfon" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-3957-2474-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-3957-2474-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-3957-2474" .
+    ns2:orcidId "http://orcid.org/0000-0002-3957-2474"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-4110-3511> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Alberto Accomazzi" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-4110-3511-vcard> ;
+    rdfs:label "Accomazzi, Alberto" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-4110-3511-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-4110-3511-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-4110-3511" .
+    ns2:orcidId "http://orcid.org/0000-0002-4110-3511"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-4114-5148> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "William Hersh" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-4114-5148-vcard> ;
+    rdfs:label "Hersh, William" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-4114-5148-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-4114-5148-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-4114-5148" .
+    ns2:orcidId "http://orcid.org/0000-0002-4114-5148"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-4121-5919> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Kannan Palavesam" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-4121-5919-vcard> ;
+    rdfs:label "Palavesam, Kannan" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-4121-5919-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-4121-5919-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-4121-5919" .
+    ns2:orcidId "http://orcid.org/0000-0002-4121-5919"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-4291-0737> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Timothy Putman" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-4291-0737-vcard> ;
+    rdfs:label "Putman, Timothy" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-4291-0737-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-4291-0737-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-4291-0737" .
+    ns2:orcidId "http://orcid.org/0000-0002-4291-0737"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-4384-1294> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Andrea Ketchum" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-4384-1294-vcard> ;
+    rdfs:label "Ketchum, Andrea" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-4384-1294-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-4384-1294-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-4384-1294" .
+    ns2:orcidId "http://orcid.org/0000-0002-4384-1294"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-4642-1121> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "MacKenzie Smith" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-4642-1121-vcard> ;
+    rdfs:label "Smith, MacKenzie" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-4642-1121-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-4642-1121-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-4642-1121" .
+    ns2:orcidId "http://orcid.org/0000-0002-4642-1121"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-4977-8572> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Helen Szigeti" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-4977-8572-vcard> ;
+    rdfs:label "Szigeti, Helen" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-4977-8572-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-4977-8572-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-4977-8572" .
+    ns2:orcidId "http://orcid.org/0000-0002-4977-8572"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-4988-384X> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Prashant Gupta" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-4988-384X-vcard> ;
+    rdfs:label "Gupta, Prashant" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-4988-384X-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-4988-384X-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-4988-384X" .
+    ns2:orcidId "http://orcid.org/0000-0002-4988-384X"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-5192-9835> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Nicole Nogoy" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-5192-9835-vcard> ;
+    rdfs:label "Nogoy, Nicole" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-5192-9835-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-5192-9835-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-5192-9835" .
+    ns2:orcidId "http://orcid.org/0000-0002-5192-9835"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-5401-7751> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "April Clyburne-Sherin" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-5401-7751-vcard> ;
+    rdfs:label "Clyburne-Sherin, April" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-5401-7751-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-5401-7751-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-5401-7751" .
+    ns2:orcidId "http://orcid.org/0000-0002-5401-7751"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-5497-0243> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Anita Bandrowski" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-5497-0243-vcard> ;
+    rdfs:label "Bandrowski, Anita" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-5497-0243-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-5497-0243-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-5497-0243" .
+    ns2:orcidId "http://orcid.org/0000-0002-5497-0243"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-5965-6560> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Bianca Kramer" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-5965-6560-vcard> ;
+    rdfs:label "Kramer, Bianca" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-5965-6560-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-5965-6560-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-5965-6560" .
+    ns2:orcidId "http://orcid.org/0000-0002-5965-6560"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-6107-7007> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Jon Jeffryes" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-6107-7007-vcard> ;
+    rdfs:label "Jeffryes, Jon" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-6107-7007-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-6107-7007-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-6107-7007" .
+    ns2:orcidId "http://orcid.org/0000-0002-6107-7007"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-6132-3853> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Chealsye Bowley" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-6132-3853-vcard> ;
+    rdfs:label "Bowley, Chealsye" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-6132-3853-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-6132-3853-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-6132-3853" .
+    ns2:orcidId "http://orcid.org/0000-0002-6132-3853"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-6133-2581> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Todd Vision" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-6133-2581-vcard> ;
+    rdfs:label "Vision, Todd" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-6133-2581-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-6133-2581-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-6133-2581" .
+    ns2:orcidId "http://orcid.org/0000-0002-6133-2581"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-6161-5557> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Diana Louden" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-6161-5557-vcard> ;
+    rdfs:label "Louden, Diana" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-6161-5557-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-6161-5557-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-6161-5557" .
+    ns2:orcidId "http://orcid.org/0000-0002-6161-5557"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-6361-1410> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Mahria Lebow" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-6361-1410-vcard> ;
+    rdfs:label "Lebow, Mahria" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-6361-1410-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-6361-1410-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-6361-1410" .
+    ns2:orcidId "http://orcid.org/0000-0002-6361-1410"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-6697-6917> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Katie Hickling" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-6697-6917-vcard> ;
+    rdfs:label "Hickling, Katie" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-6697-6917-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-6697-6917-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-6697-6917" .
+    ns2:orcidId "http://orcid.org/0000-0002-6697-6917"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-6866-1628> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Patrick Polischuk" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-6866-1628-vcard> ;
+    rdfs:label "Polischuk, Patrick" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-6866-1628-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-6866-1628-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-6866-1628" .
+    ns2:orcidId "http://orcid.org/0000-0002-6866-1628"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-6949-0090> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Michael Kurtz" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-6949-0090-vcard> ;
+    rdfs:label "Kurtz, Michael" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-6949-0090-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-6949-0090-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-6949-0090" .
+    ns2:orcidId "http://orcid.org/0000-0002-6949-0090"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-7285-027X> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Joan Starr" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-7285-027X-vcard> ;
+    rdfs:label "Starr, Joan" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-7285-027X-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-7285-027X-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-7285-027X" .
+    ns2:orcidId "http://orcid.org/0000-0002-7285-027X"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-7291-320X> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Philip Roberts" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-7291-320X-vcard> ;
+    rdfs:label "Roberts, Philip" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-7291-320X-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-7291-320X-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-7291-320X" .
+    ns2:orcidId "http://orcid.org/0000-0002-7291-320X"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-7417-7373> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Adrian Ho" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-7417-7373-vcard> ;
+    rdfs:label "Ho, Adrian" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-7417-7373-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-7417-7373-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-7417-7373" .
+    ns2:orcidId "http://orcid.org/0000-0002-7417-7373"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-7509-4801> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Tom Gillespie" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-7509-4801-vcard> ;
+    rdfs:label "Gillespie, Tom" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-7509-4801-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-7509-4801-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-7509-4801" .
+    ns2:orcidId "http://orcid.org/0000-0002-7509-4801"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-7574-5985> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Ewa Zegler-Poleska" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-7574-5985-vcard> ;
+    rdfs:label "Zegler-Poleska, Ewa" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-7574-5985-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-7574-5985-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-7574-5985" .
+    ns2:orcidId "http://orcid.org/0000-0002-7574-5985"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-7859-8394> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Rowan Cockett" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-7859-8394-vcard> ;
+    rdfs:label "Cockett, Rowan" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-7859-8394-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-7859-8394-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-7859-8394" .
+    ns2:orcidId "http://orcid.org/0000-0002-7859-8394"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-7970-7855> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Simeon Warner" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-7970-7855-vcard> ;
+    rdfs:label "Warner, Simeon" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-7970-7855-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-7970-7855-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-7970-7855" .
+    ns2:orcidId "http://orcid.org/0000-0002-7970-7855"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-8320-0491> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Todd Carpenter" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-8320-0491-vcard> ;
+    rdfs:label "Carpenter, Todd" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-8320-0491-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-8320-0491-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-8320-0491" .
+    ns2:orcidId "http://orcid.org/0000-0002-8320-0491"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-8343-612X> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Suzanna Lewis" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-8343-612X-vcard> ;
+    rdfs:label "Lewis, Suzanna" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-8343-612X-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-8343-612X-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-8343-612X" .
+    ns2:orcidId "http://orcid.org/0000-0002-8343-612X"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-8404-9594> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Mary Linn Bergstrom" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-8404-9594-vcard> ;
+    rdfs:label "Bergstrom, Mary Linn" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-8404-9594-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-8404-9594-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-8404-9594" .
+    ns2:orcidId "http://orcid.org/0000-0002-8404-9594"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-8534-5985> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Michael Taylor" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-8534-5985-vcard> ;
+    rdfs:label "Taylor, Michael" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-8534-5985-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-8534-5985-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-8534-5985" .
+    ns2:orcidId "http://orcid.org/0000-0002-8534-5985"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-8689-4935> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Josh Brown" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-8689-4935-vcard> ;
+    rdfs:label "Brown, Josh" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-8689-4935-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-8689-4935-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-8689-4935" .
+    ns2:orcidId "http://orcid.org/0000-0002-8689-4935"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-8752-272X> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Steve Van Tuyl" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-8752-272X-vcard> ;
+    rdfs:label "Tuyl, Steve Van" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-8752-272X-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-8752-272X-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-8752-272X" .
+    ns2:orcidId "http://orcid.org/0000-0002-8752-272X"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-8868-7446> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Erika Sevetson" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-8868-7446-vcard> ;
+    rdfs:label "Sevetson, Erika" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-8868-7446-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-8868-7446-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-8868-7446" .
+    ns2:orcidId "http://orcid.org/0000-0002-8868-7446"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-8876-7606> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Neil Chue Hong" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-8876-7606-vcard> ;
+    rdfs:label "Hong, Neil Chue" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-8876-7606-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-8876-7606-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-8876-7606" .
+    ns2:orcidId "http://orcid.org/0000-0002-8876-7606"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-8956-0455> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Ronald Margolis" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-8956-0455-vcard> ;
+    rdfs:label "Margolis, Ronald" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-8956-0455-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-8956-0455-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-8956-0455" .
+    ns2:orcidId "http://orcid.org/0000-0002-8956-0455"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-9117-7850> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Brian Hole" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-9117-7850-vcard> ;
+    rdfs:label "Hole, Brian" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-9117-7850-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-9117-7850-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-9117-7850" .
+    ns2:orcidId "http://orcid.org/0000-0002-9117-7850"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-9124-8946> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Slobodan Radicev" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-9124-8946-vcard> ;
+    rdfs:label "Radicev, Slobodan" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-9124-8946-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-9124-8946-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-9124-8946" .
+    ns2:orcidId "http://orcid.org/0000-0002-9124-8946"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-9280-8941> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Samir Hachani" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-9280-8941-vcard> ;
+    rdfs:label "Hachani, Samir" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-9280-8941-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-9280-8941-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-9280-8941" .
+    ns2:orcidId "http://orcid.org/0000-0002-9280-8941"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-9300-5278> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Trisha Cruse" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-9300-5278-vcard> ;
+    rdfs:label "Cruse, Trisha" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-9300-5278-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-9300-5278-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-9300-5278" .
+    ns2:orcidId "http://orcid.org/0000-0002-9300-5278"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-9344-1029> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Christine Borgman" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-9344-1029-vcard> ;
+    rdfs:label "Borgman, Christine" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-9344-1029-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-9344-1029-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-9344-1029" .
+    ns2:orcidId "http://orcid.org/0000-0002-9344-1029"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-9344-7439> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Juan Pablo Alperin" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-9344-7439-vcard> ;
+    rdfs:label "Alperin, Juan Pablo" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-9344-7439-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-9344-7439-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-9344-7439" .
+    ns2:orcidId "http://orcid.org/0000-0002-9344-7439"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-9366-1507> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Alex Wade" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-9366-1507-vcard> ;
+    rdfs:label "Wade, Alex" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-9366-1507-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-9366-1507-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-9366-1507" .
+    ns2:orcidId "http://orcid.org/0000-0002-9366-1507"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-9479-6438> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Dan Valen" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-9479-6438-vcard> ;
+    rdfs:label "Valen, Dan" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-9479-6438-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-9479-6438-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-9479-6438" .
+    ns2:orcidId "http://orcid.org/0000-0002-9479-6438"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-9566-5835> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Fernando Seabra Chirigati" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-9566-5835-vcard> ;
+    rdfs:label "Chirigati, Fernando Seabra" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-9566-5835-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-9566-5835-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-9566-5835" .
+    ns2:orcidId "http://orcid.org/0000-0002-9566-5835"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-9608-803X> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Andre Appel" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-9608-803X-vcard> ;
+    rdfs:label "Appel, Andre" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-9608-803X-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-9608-803X-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-9608-803X" .
+    ns2:orcidId "http://orcid.org/0000-0002-9608-803X"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-9610-5370> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "John Kratz" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-9610-5370-vcard> ;
+    rdfs:label "Kratz, John" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-9610-5370-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-9610-5370-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-9610-5370" .
+    ns2:orcidId "http://orcid.org/0000-0002-9610-5370"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-9680-2328> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Jennifer Lin" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-9680-2328-vcard> ;
+    rdfs:label "Lin, Jennifer" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-9680-2328-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-9680-2328-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-9680-2328" .
+    ns2:orcidId "http://orcid.org/0000-0002-9680-2328"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0002-9794-749X> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Jean-Baptiste Poline" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0002-9794-749X-vcard> ;
+    rdfs:label "Poline, Jean-Baptiste" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0002-9794-749X-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0002-9794-749X-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0002-9794-749X" .
+    ns2:orcidId "http://orcid.org/0000-0002-9794-749X"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-0046-5097> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Stefan Tanaka" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-0046-5097-vcard> ;
+    rdfs:label "Tanaka, Stefan" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-0046-5097-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-0046-5097-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-0046-5097" .
+    ns2:orcidId "http://orcid.org/0000-0003-0046-5097"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-0077-4738> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Matthew Jones" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-0077-4738-vcard> ;
+    rdfs:label "Jones, Matthew" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-0077-4738-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-0077-4738-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-0077-4738" .
+    ns2:orcidId "http://orcid.org/0000-0003-0077-4738"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-0157-1430> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Stefanie Haustein" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-0157-1430-vcard> ;
+    rdfs:label "Haustein, Stefanie" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-0157-1430-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-0157-1430-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-0157-1430" .
+    ns2:orcidId "http://orcid.org/0000-0003-0157-1430"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-0183-6910> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Paul Groth" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-0183-6910-vcard> ;
+    rdfs:label "Groth, Paul" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-0183-6910-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-0183-6910-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-0183-6910" .
+    ns2:orcidId "http://orcid.org/0000-0003-0183-6910"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-0666-6367> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "August Muench" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-0666-6367-vcard> ;
+    rdfs:label "Muench, August" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-0666-6367-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-0666-6367-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-0666-6367" .
+    ns2:orcidId "http://orcid.org/0000-0003-0666-6367"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-0690-9859> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Ali Versluis" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-0690-9859-vcard> ;
+    rdfs:label "Versluis, Ali" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-0690-9859-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-0690-9859-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-0690-9859" .
+    ns2:orcidId "http://orcid.org/0000-0003-0690-9859"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-0790-0872> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Bruce Caron" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-0790-0872-vcard> ;
+    rdfs:label "Caron, Bruce" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-0790-0872-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-0790-0872-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-0790-0872" .
+    ns2:orcidId "http://orcid.org/0000-0003-0790-0872"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-0898-078X> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Brian Westra" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-0898-078X-vcard> ;
+    rdfs:label "Westra, Brian" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-0898-078X-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-0898-078X-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-0898-078X" .
+    ns2:orcidId "http://orcid.org/0000-0003-0898-078X"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-0952-3660> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Emily Ford",
-        "Michael Bowman",
-        "Sarah Beasley" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-0952-3660-vcard> ;
+    rdfs:label "Beasley, Sarah",
+        "Bowman, Michael",
+        "Ford, Emily" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-0952-3660-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-0952-3660-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-0952-3660" .
+    ns2:orcidId "http://orcid.org/0000-0003-0952-3660"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-1099-3328> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Nolan Nichols" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-1099-3328-vcard> ;
+    rdfs:label "Nichols, Nolan" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-1099-3328-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-1099-3328-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-1099-3328" .
+    ns2:orcidId "http://orcid.org/0000-0003-1099-3328"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-1304-1939> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Merce Crosas" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-1304-1939-vcard> ;
+    rdfs:label "Crosas, Merce" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-1304-1939-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-1304-1939-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-1304-1939" .
+    ns2:orcidId "http://orcid.org/0000-0003-1304-1939"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-1315-5960> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Geoffrey Bilder" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-1315-5960-vcard> ;
+    rdfs:label "Bilder, Geoffrey" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-1315-5960-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-1315-5960-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-1315-5960" .
+    ns2:orcidId "http://orcid.org/0000-0003-1315-5960"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-1367-2220> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Marcus Banks" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-1367-2220-vcard> ;
+    rdfs:label "Banks, Marcus" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-1367-2220-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-1367-2220-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-1367-2220" .
+    ns2:orcidId "http://orcid.org/0000-0003-1367-2220"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-1444-9135> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Scott Chamberlain" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-1444-9135-vcard> ;
+    rdfs:label "Chamberlain, Scott" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-1444-9135-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-1444-9135-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-1444-9135" .
+    ns2:orcidId "http://orcid.org/0000-0003-1444-9135"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-1613-5981> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Heather Piwowar" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-1613-5981-vcard> ;
+    rdfs:label "Piwowar, Heather" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-1613-5981-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-1613-5981-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-1613-5981" .
+    ns2:orcidId "http://orcid.org/0000-0003-1613-5981"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-2122-2254> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Karen Sorensen" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-2122-2254-vcard> ;
+    rdfs:label "Sorensen, Karen" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-2122-2254-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-2122-2254-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-2122-2254" .
+    ns2:orcidId "http://orcid.org/0000-0003-2122-2254"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-2135-5874> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Jeffrey Spies" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-2135-5874-vcard> ;
+    rdfs:label "Spies, Jeffrey" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-2135-5874-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-2135-5874-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-2135-5874" .
+    ns2:orcidId "http://orcid.org/0000-0003-2135-5874"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-2194-8178> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Amanda Lawrence" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-2194-8178-vcard> ;
+    rdfs:label "Lawrence, Amanda" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-2194-8178-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-2194-8178-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-2194-8178" .
+    ns2:orcidId "http://orcid.org/0000-0003-2194-8178"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-2507-7998> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Christy Caldwell" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-2507-7998-vcard> ;
+    rdfs:label "Caldwell, Christy" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-2507-7998-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-2507-7998-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-2507-7998" .
+    ns2:orcidId "http://orcid.org/0000-0003-2507-7998"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-2588-3084> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Violeta Ilik" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-2588-3084-vcard> ;
+    rdfs:label "Ilik, Violeta" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-2588-3084-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-2588-3084-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-2588-3084" .
+    ns2:orcidId "http://orcid.org/0000-0003-2588-3084"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-3188-6273> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Laura Paglione" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-3188-6273-vcard> ;
+    rdfs:label "Paglione, Laura" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-3188-6273-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-3188-6273-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-3188-6273" .
+    ns2:orcidId "http://orcid.org/0000-0003-3188-6273"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-3321-7583> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Krzysztof Gorgolewski" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-3321-7583-vcard> ;
+    rdfs:label "Gorgolewski, Krzysztof" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-3321-7583-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-3321-7583-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-3321-7583" .
+    ns2:orcidId "http://orcid.org/0000-0003-3321-7583"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-3325-793X> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Mark Musen" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-3325-793X-vcard> ;
+    rdfs:label "Musen, Mark" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-3325-793X-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-3325-793X-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-3325-793X" .
+    ns2:orcidId "http://orcid.org/0000-0003-3325-793X"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-3361-3594> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Benjamin Hitz" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-3361-3594-vcard> ;
+    rdfs:label "Hitz, Benjamin" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-3361-3594-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-3361-3594-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-3361-3594" .
+    ns2:orcidId "http://orcid.org/0000-0003-3361-3594"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-3386-3972> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Peter Murray-Rust" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-3386-3972-vcard> ;
+    rdfs:label "Murray-Rust, Peter" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-3386-3972-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-3386-3972-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-3386-3972" .
+    ns2:orcidId "http://orcid.org/0000-0003-3386-3972"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-3531-6550> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Josh Greenberg" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-3531-6550-vcard> ;
+    rdfs:label "Greenberg, Josh" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-3531-6550-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-3531-6550-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-3531-6550" .
+    ns2:orcidId "http://orcid.org/0000-0003-3531-6550"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-3765-3841> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Elizabeth Seiver" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-3765-3841-vcard> ;
+    rdfs:label "Seiver, Elizabeth" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-3765-3841-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-3765-3841-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-3765-3841" .
+    ns2:orcidId "http://orcid.org/0000-0003-3765-3841"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-3829-318X> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Stephanie Wright" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-3829-318X-vcard> ;
+    rdfs:label "Wright, Stephanie" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-3829-318X-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-3829-318X-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-3829-318X" .
+    ns2:orcidId "http://orcid.org/0000-0003-3829-318X"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-4060-7360> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Tim Clark" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-4060-7360-vcard> ;
+    rdfs:label "Clark, Tim" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-4060-7360-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-4060-7360-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-4060-7360" .
+    ns2:orcidId "http://orcid.org/0000-0003-4060-7360"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-4144-3222> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Darren Chase" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-4144-3222-vcard> ;
+    rdfs:label "Chase, Darren" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-4144-3222-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-4144-3222-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-4144-3222" .
+    ns2:orcidId "http://orcid.org/0000-0003-4144-3222"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-4258-0982> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Robert McDonald" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-4258-0982-vcard> ;
+    rdfs:label "McDonald, Robert" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-4258-0982-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-4258-0982-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-4258-0982" .
+    ns2:orcidId "http://orcid.org/0000-0003-4258-0982"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-4290-6997> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Heather Coates" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-4290-6997-vcard> ;
+    rdfs:label "Coates, Heather" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-4290-6997-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-4290-6997-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-4290-6997" .
+    ns2:orcidId "http://orcid.org/0000-0003-4290-6997"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-4298-168X> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Victoria Steeves" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-4298-168X-vcard> ;
+    rdfs:label "Steeves, Victoria" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-4298-168X-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-4298-168X-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-4298-168X" .
+    ns2:orcidId "http://orcid.org/0000-0003-4298-168X"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-4425-7097> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Kyle Niemeyer" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-4425-7097-vcard> ;
+    rdfs:label "Niemeyer, Kyle" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-4425-7097-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-4425-7097-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-4425-7097" .
+    ns2:orcidId "http://orcid.org/0000-0003-4425-7097"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-4546-3773> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Michael Zentner" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-4546-3773-vcard> ;
+    rdfs:label "Zentner, Michael" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-4546-3773-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-4546-3773-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-4546-3773" .
+    ns2:orcidId "http://orcid.org/0000-0003-4546-3773"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-4727-9435> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Michel Dumontier" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-4727-9435-vcard> ;
+    rdfs:label "Dumontier, Michel" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-4727-9435-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-4727-9435-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-4727-9435" .
+    ns2:orcidId "http://orcid.org/0000-0003-4727-9435"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-4959-3049> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Abigail Cabunoc Mayes" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-4959-3049-vcard> ;
+    rdfs:label "Mayes, Abigail Cabunoc" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-4959-3049-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-4959-3049-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-4959-3049" .
+    ns2:orcidId "http://orcid.org/0000-0003-4959-3049"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0003-4963-4680> a <http://xmlns.com/foaf/0.1/Person> ;
-    rdfs:label "Annette Marines" ;
-    ns3:ARG_0000028 <http://openvivo.org/a/orcid0000-0003-4963-4680-vcard> ;
+    rdfs:label "Marines, Annette" ;
+    ns3:ARG_2000028 <http://openvivo.org/a/orcid0000-0003-4963-4680-vcard> ;
     ns3:RO_0000053 <http://openvivo.org/a/orcid0000-0003-4963-4680-http://openvivo.org/a/eventFORCE2016> ;
-    ns2:orcidID "0000-0003-4963-4680" .
+    ns2:orcidId "http://orcid.org/0000-0003-4963-4680"^^xsd:anyURI .
 
 <http://openvivo.org/a/orcid0000-0001-5109-3700-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-5109-3700-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-5109-3700-vcard-name> .
@@ -975,7 +975,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-5203-6986-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-5203-6986-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-5203-6986-vcard-name> .
@@ -986,7 +986,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-5208-3432-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-5208-3432-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-5208-3432-vcard-name> .
@@ -997,7 +997,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-5212-7052-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-5212-7052-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-5212-7052-vcard-name> .
@@ -1008,7 +1008,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-5221-6880-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-5221-6880-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-5221-6880-vcard-name> .
@@ -1019,7 +1019,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-5306-5690-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-5306-5690-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-5306-5690-vcard-name> .
@@ -1030,7 +1030,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-5494-4806-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-5494-4806-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-5494-4806-vcard-name> .
@@ -1041,7 +1041,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-5581-5678-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-5581-5678-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-5581-5678-vcard-name> .
@@ -1052,7 +1052,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-5636-0433-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-5636-0433-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-5636-0433-vcard-name> .
@@ -1064,7 +1064,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-5795-7629-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-5795-7629-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-5795-7629-vcard-name> .
@@ -1075,7 +1075,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-5796-2727-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-5796-2727-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-5796-2727-vcard-name> .
@@ -1086,7 +1086,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-5934-7525-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-5934-7525-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-5934-7525-vcard-name> .
@@ -1098,7 +1098,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-5951-5955-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-5951-5955-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-5951-5955-vcard-name> .
@@ -1109,7 +1109,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-6121-9899-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-6121-9899-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-6121-9899-vcard-name> .
@@ -1120,7 +1120,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-6187-6610-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-6187-6610-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-6187-6610-vcard-name> .
@@ -1131,7 +1131,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-6238-3498-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-6238-3498-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-6238-3498-vcard-name> .
@@ -1142,7 +1142,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-6304-7349-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-6304-7349-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-6304-7349-vcard-name> .
@@ -1153,7 +1153,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-6331-4451-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-6331-4451-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-6331-4451-vcard-name> .
@@ -1164,7 +1164,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-6444-1436-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-6444-1436-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-6444-1436-vcard-name> .
@@ -1175,7 +1175,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-6593-7476-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-6593-7476-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-6593-7476-vcard-name> .
@@ -1186,7 +1186,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-6689-0104-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-6689-0104-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-6689-0104-vcard-name> .
@@ -1197,7 +1197,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-7082-6340-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-7082-6340-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-7082-6340-vcard-name> .
@@ -1208,7 +1208,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-7237-0797-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-7237-0797-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-7237-0797-vcard-name> .
@@ -1219,7 +1219,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-7377-163X-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-7377-163X-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-7377-163X-vcard-name> .
@@ -1230,7 +1230,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-7382-6960-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-7382-6960-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-7382-6960-vcard-name> .
@@ -1241,7 +1241,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-7604-8041-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-7604-8041-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-7604-8041-vcard-name> .
@@ -1252,7 +1252,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-7707-3396-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-7707-3396-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-7707-3396-vcard-name> .
@@ -1263,7 +1263,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-7933-1029-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-7933-1029-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-7933-1029-vcard-name> .
@@ -1274,7 +1274,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-8122-6164-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-8122-6164-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-8122-6164-vcard-name> .
@@ -1285,7 +1285,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-8249-7388-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-8249-7388-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-8249-7388-vcard-name> .
@@ -1296,7 +1296,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-8420-5254-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-8420-5254-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-8420-5254-vcard-name> .
@@ -1307,7 +1307,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-8522-334X-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-8522-334X-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-8522-334X-vcard-name> .
@@ -1318,7 +1318,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-9064-531X-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-9064-531X-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-9064-531X-vcard-name> .
@@ -1329,7 +1329,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-9074-3016-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-9074-3016-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-9074-3016-vcard-name> .
@@ -1341,7 +1341,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-9114-8737-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-9114-8737-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-9114-8737-vcard-name> .
@@ -1352,7 +1352,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-9488-1870-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-9488-1870-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-9488-1870-vcard-name> .
@@ -1363,7 +1363,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-9592-2339-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-9592-2339-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-9592-2339-vcard-name> .
@@ -1374,7 +1374,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-9623-2225-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-9623-2225-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-9623-2225-vcard-name> .
@@ -1385,7 +1385,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-9677-0947-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-9677-0947-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-9677-0947-vcard-name> .
@@ -1397,7 +1397,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-9799-5523-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-9799-5523-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-9799-5523-vcard-name> .
@@ -1408,7 +1408,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-9850-7544-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-9850-7544-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-9850-7544-vcard-name> .
@@ -1419,7 +1419,7 @@
 
 <http://openvivo.org/a/orcid0000-0001-9998-0114-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0001-9998-0114-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0001-9998-0114-vcard-name> .
@@ -1430,7 +1430,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-0036-9460-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-0036-9460-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-0036-9460-vcard-name> .
@@ -1441,7 +1441,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-0068-716X-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-0068-716X-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-0068-716X-vcard-name> .
@@ -1452,7 +1452,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-0233-1757-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-0233-1757-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-0233-1757-vcard-name> .
@@ -1463,7 +1463,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-0464-3105-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-0464-3105-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-0464-3105-vcard-name> .
@@ -1474,7 +1474,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-0524-2282-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-0524-2282-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-0524-2282-vcard-name> .
@@ -1485,7 +1485,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-0546-8257-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-0546-8257-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-0546-8257-vcard-name> .
@@ -1496,7 +1496,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-0816-138-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-0816-138-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-0816-138-vcard-name> .
@@ -1507,7 +1507,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-0862-4374-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-0862-4374-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-0862-4374-vcard-name> .
@@ -1518,7 +1518,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-1059-9446-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-1059-9446-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-1059-9446-vcard-name> .
@@ -1529,7 +1529,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-1108-3660-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-1108-3660-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-1108-3660-vcard-name> .
@@ -1540,7 +1540,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-1304-8447-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-1304-8447-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-1304-8447-vcard-name> .
@@ -1551,7 +1551,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-1384-1365-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-1384-1365-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-1384-1365-vcard-name> .
@@ -1562,7 +1562,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-1433-6782-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-1433-6782-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-1433-6782-vcard-name> .
@@ -1573,7 +1573,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-1572-8059-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-1572-8059-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-1572-8059-vcard-name> .
@@ -1584,7 +1584,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-1643-6242-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-1643-6242-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-1643-6242-vcard-name> .
@@ -1595,7 +1595,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-1799-748X-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-1799-748X-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-1799-748X-vcard-name> .
@@ -1606,7 +1606,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-1948-563X-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-1948-563X-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-1948-563X-vcard-name> .
@@ -1617,7 +1617,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-2267-268X-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-2267-268X-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-2267-268X-vcard-name> .
@@ -1628,7 +1628,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-2557-6204-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-2557-6204-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-2557-6204-vcard-name> .
@@ -1639,7 +1639,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-2606-6599-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-2606-6599-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-2606-6599-vcard-name> .
@@ -1650,7 +1650,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-2617-8443-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-2617-8443-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-2617-8443-vcard-name> .
@@ -1661,7 +1661,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-2831-5632-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-2831-5632-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-2831-5632-vcard-name> .
@@ -1672,7 +1672,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-2897-2907-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-2897-2907-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-2897-2907-vcard-name> .
@@ -1683,7 +1683,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-2908-3327-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-2908-3327-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-2908-3327-vcard-name> .
@@ -1694,7 +1694,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-2912-8038-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-2912-8038-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-2912-8038-vcard-name> .
@@ -1705,7 +1705,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-2926-9324-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-2926-9324-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-2926-9324-vcard-name> .
@@ -1716,7 +1716,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-3033-9350-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-3033-9350-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-3033-9350-vcard-name> .
@@ -1727,7 +1727,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-3555-2054-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-3555-2054-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-3555-2054-vcard-name> .
@@ -1738,7 +1738,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-3636-5939-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-3636-5939-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-3636-5939-vcard-name> .
@@ -1749,7 +1749,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-3957-2474-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-3957-2474-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-3957-2474-vcard-name> .
@@ -1760,7 +1760,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-4110-3511-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-4110-3511-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-4110-3511-vcard-name> .
@@ -1771,7 +1771,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-4114-5148-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-4114-5148-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-4114-5148-vcard-name> .
@@ -1782,7 +1782,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-4121-5919-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-4121-5919-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-4121-5919-vcard-name> .
@@ -1793,7 +1793,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-4291-0737-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-4291-0737-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-4291-0737-vcard-name> .
@@ -1804,7 +1804,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-4384-1294-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-4384-1294-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-4384-1294-vcard-name> .
@@ -1815,7 +1815,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-4642-1121-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-4642-1121-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-4642-1121-vcard-name> .
@@ -1826,7 +1826,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-4977-8572-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-4977-8572-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-4977-8572-vcard-name> .
@@ -1837,7 +1837,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-4988-384X-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-4988-384X-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-4988-384X-vcard-name> .
@@ -1848,7 +1848,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-5192-9835-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-5192-9835-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-5192-9835-vcard-name> .
@@ -1859,7 +1859,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-5401-7751-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-5401-7751-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-5401-7751-vcard-name> .
@@ -1870,7 +1870,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-5497-0243-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-5497-0243-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-5497-0243-vcard-name> .
@@ -1881,7 +1881,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-5965-6560-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-5965-6560-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-5965-6560-vcard-name> .
@@ -1892,7 +1892,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-6107-7007-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-6107-7007-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-6107-7007-vcard-name> .
@@ -1903,7 +1903,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-6132-3853-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-6132-3853-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-6132-3853-vcard-name> .
@@ -1914,7 +1914,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-6133-2581-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-6133-2581-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-6133-2581-vcard-name> .
@@ -1925,7 +1925,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-6161-5557-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-6161-5557-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-6161-5557-vcard-name> .
@@ -1936,7 +1936,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-6361-1410-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-6361-1410-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-6361-1410-vcard-name> .
@@ -1947,7 +1947,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-6697-6917-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-6697-6917-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-6697-6917-vcard-name> .
@@ -1958,7 +1958,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-6866-1628-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-6866-1628-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-6866-1628-vcard-name> .
@@ -1969,7 +1969,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-6949-0090-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-6949-0090-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-6949-0090-vcard-name> .
@@ -1980,7 +1980,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-7285-027X-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-7285-027X-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-7285-027X-vcard-name> .
@@ -1991,7 +1991,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-7291-320X-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-7291-320X-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-7291-320X-vcard-name> .
@@ -2002,7 +2002,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-7417-7373-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-7417-7373-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-7417-7373-vcard-name> .
@@ -2013,7 +2013,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-7509-4801-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-7509-4801-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-7509-4801-vcard-name> .
@@ -2024,7 +2024,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-7574-5985-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-7574-5985-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-7574-5985-vcard-name> .
@@ -2035,7 +2035,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-7859-8394-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-7859-8394-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-7859-8394-vcard-name> .
@@ -2046,7 +2046,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-7970-7855-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-7970-7855-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-7970-7855-vcard-name> .
@@ -2057,7 +2057,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-8320-0491-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-8320-0491-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-8320-0491-vcard-name> .
@@ -2068,7 +2068,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-8343-612X-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-8343-612X-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-8343-612X-vcard-name> .
@@ -2079,7 +2079,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-8404-9594-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-8404-9594-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-8404-9594-vcard-name> .
@@ -2091,7 +2091,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-8534-5985-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-8534-5985-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-8534-5985-vcard-name> .
@@ -2102,7 +2102,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-8689-4935-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-8689-4935-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-8689-4935-vcard-name> .
@@ -2113,7 +2113,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-8752-272X-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-8752-272X-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-8752-272X-vcard-name> .
@@ -2125,7 +2125,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-8868-7446-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-8868-7446-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-8868-7446-vcard-name> .
@@ -2136,7 +2136,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-8876-7606-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-8876-7606-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-8876-7606-vcard-name> .
@@ -2148,7 +2148,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-8956-0455-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-8956-0455-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-8956-0455-vcard-name> .
@@ -2159,7 +2159,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-9117-7850-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-9117-7850-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-9117-7850-vcard-name> .
@@ -2170,7 +2170,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-9124-8946-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-9124-8946-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-9124-8946-vcard-name> .
@@ -2181,7 +2181,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-9280-8941-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-9280-8941-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-9280-8941-vcard-name> .
@@ -2192,7 +2192,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-9300-5278-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-9300-5278-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-9300-5278-vcard-name> .
@@ -2203,7 +2203,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-9344-1029-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-9344-1029-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-9344-1029-vcard-name> .
@@ -2214,7 +2214,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-9344-7439-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-9344-7439-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-9344-7439-vcard-name> .
@@ -2226,7 +2226,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-9366-1507-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-9366-1507-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-9366-1507-vcard-name> .
@@ -2237,7 +2237,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-9479-6438-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-9479-6438-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-9479-6438-vcard-name> .
@@ -2248,7 +2248,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-9566-5835-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-9566-5835-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-9566-5835-vcard-name> .
@@ -2260,7 +2260,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-9608-803X-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-9608-803X-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-9608-803X-vcard-name> .
@@ -2271,7 +2271,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-9610-5370-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-9610-5370-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-9610-5370-vcard-name> .
@@ -2282,7 +2282,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-9680-2328-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-9680-2328-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-9680-2328-vcard-name> .
@@ -2293,7 +2293,7 @@
 
 <http://openvivo.org/a/orcid0000-0002-9794-749X-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0002-9794-749X-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0002-9794-749X-vcard-name> .
@@ -2304,7 +2304,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-0046-5097-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-0046-5097-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-0046-5097-vcard-name> .
@@ -2315,7 +2315,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-0077-4738-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-0077-4738-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-0077-4738-vcard-name> .
@@ -2326,7 +2326,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-0157-1430-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-0157-1430-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-0157-1430-vcard-name> .
@@ -2337,7 +2337,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-0183-6910-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-0183-6910-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-0183-6910-vcard-name> .
@@ -2348,7 +2348,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-0666-6367-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-0666-6367-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-0666-6367-vcard-name> .
@@ -2359,7 +2359,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-0690-9859-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-0690-9859-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-0690-9859-vcard-name> .
@@ -2370,7 +2370,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-0790-0872-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-0790-0872-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-0790-0872-vcard-name> .
@@ -2381,7 +2381,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-0898-078X-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-0898-078X-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-0898-078X-vcard-name> .
@@ -2392,7 +2392,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-0952-3660-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-0952-3660-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-0952-3660-vcard-name> .
@@ -2407,7 +2407,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-1099-3328-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-1099-3328-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-1099-3328-vcard-name> .
@@ -2418,7 +2418,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-1304-1939-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-1304-1939-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-1304-1939-vcard-name> .
@@ -2429,7 +2429,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-1315-5960-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-1315-5960-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-1315-5960-vcard-name> .
@@ -2440,7 +2440,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-1367-2220-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-1367-2220-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-1367-2220-vcard-name> .
@@ -2451,7 +2451,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-1444-9135-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-1444-9135-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-1444-9135-vcard-name> .
@@ -2462,7 +2462,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-1613-5981-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-1613-5981-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-1613-5981-vcard-name> .
@@ -2473,7 +2473,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-2122-2254-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-2122-2254-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-2122-2254-vcard-name> .
@@ -2484,7 +2484,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-2135-5874-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-2135-5874-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-2135-5874-vcard-name> .
@@ -2495,7 +2495,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-2194-8178-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-2194-8178-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-2194-8178-vcard-name> .
@@ -2506,7 +2506,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-2507-7998-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-2507-7998-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-2507-7998-vcard-name> .
@@ -2517,7 +2517,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-2588-3084-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-2588-3084-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-2588-3084-vcard-name> .
@@ -2528,7 +2528,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-3188-6273-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-3188-6273-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-3188-6273-vcard-name> .
@@ -2539,7 +2539,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-3321-7583-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-3321-7583-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-3321-7583-vcard-name> .
@@ -2550,7 +2550,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-3325-793X-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-3325-793X-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-3325-793X-vcard-name> .
@@ -2561,7 +2561,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-3361-3594-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-3361-3594-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-3361-3594-vcard-name> .
@@ -2572,7 +2572,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-3386-3972-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-3386-3972-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-3386-3972-vcard-name> .
@@ -2583,7 +2583,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-3531-6550-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-3531-6550-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-3531-6550-vcard-name> .
@@ -2594,7 +2594,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-3765-3841-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-3765-3841-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-3765-3841-vcard-name> .
@@ -2605,7 +2605,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-3829-318X-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-3829-318X-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-3829-318X-vcard-name> .
@@ -2616,7 +2616,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-4060-7360-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-4060-7360-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-4060-7360-vcard-name> .
@@ -2627,7 +2627,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-4144-3222-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-4144-3222-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-4144-3222-vcard-name> .
@@ -2638,7 +2638,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-4258-0982-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-4258-0982-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-4258-0982-vcard-name> .
@@ -2649,7 +2649,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-4290-6997-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-4290-6997-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-4290-6997-vcard-name> .
@@ -2660,7 +2660,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-4298-168X-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-4298-168X-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-4298-168X-vcard-name> .
@@ -2671,7 +2671,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-4425-7097-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-4425-7097-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-4425-7097-vcard-name> .
@@ -2682,7 +2682,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-4546-3773-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-4546-3773-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-4546-3773-vcard-name> .
@@ -2693,7 +2693,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-4727-9435-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-4727-9435-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-4727-9435-vcard-name> .
@@ -2704,7 +2704,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-4959-3049-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-4959-3049-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-4959-3049-vcard-name> .
@@ -2716,7 +2716,7 @@
 
 <http://openvivo.org/a/orcid0000-0003-4963-4680-http://openvivo.org/a/eventFORCE2016> a ns2:ResearcherRole ;
     rdfs:label "Registrant" ;
-    ns3:RO_0000054 <http://openvivo.org/a/eventFORCE2016> .
+    ns3:BFO_0000054 <http://openvivo.org/a/eventFORCE2016> .
 
 <http://openvivo.org/a/orcid0000-0003-4963-4680-vcard> a ns1:Individual ;
     ns1:hasName <http://openvivo.org/a/orcid0000-0003-4963-4680-vcard-name> .

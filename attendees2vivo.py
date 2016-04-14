@@ -64,6 +64,7 @@ def make_attendee(data_line):
         attendee['family_name'] = name_parts[2:]
 
     attendee['full_name'] = attendee['family_name'] + ', ' + attendee['given_name'] + ' ' + attendee['additional_name']
+    attendee['full_name'].strip()
 
     attendee['orcid'] = attendee['orcid'].strip()
     attendee['orcid'] = attendee['orcid'].replace('http://orcid.org/', '')
@@ -88,7 +89,7 @@ def make_attendee_rdf(attendee, event_uri):
         print attendee['orcid']
         attendee_uri = URIRef(attendee_prefix + attendee['orcid'])
         g.add((attendee_uri, RDF.type, FOAF.Person))
-        g.add((attendee_uri, RDFS.label, Literal(attendee['full_name'])))
+        g.add((attendee_uri, RDFS.label, Literal(attendee['full_name'].strip())))
         g.add((attendee_uri, VIVO.orcidId, Literal(orcid_prefix + attendee['orcid'], datatype=XSD.anyURI)))
 
         #   Make a vcard for the attendee.  The vcard has the name of the attendee
@@ -112,7 +113,7 @@ def make_attendee_rdf(attendee, event_uri):
         g.add((role_uri, RDF.type, VIVO.ResearcherRole))
         g.add((role_uri, RDFS.label, Literal("Registrant")))
         g.add((attendee_uri, OBO.RO_0000053, role_uri))
-        g.add((role_uri, OBO.RO_0000054, event_uri))
+        g.add((role_uri, OBO.BFO_0000054, event_uri))
 
     return g
 
@@ -123,6 +124,7 @@ if __name__ == '__main__':
     attendees_graph = Graph()
     event_uri = URIRef('http://openvivo.org/a/eventFORCE2016')
     count = 0
+    orcid_count = 0
     f = open('attendees.txt', 'rU')
     for line in f:
         conference_attendee = make_attendee(line)
@@ -132,9 +134,11 @@ if __name__ == '__main__':
                 print count
             attendee_graph = make_attendee_rdf(conference_attendee, event_uri)
             print len(attendee_graph)
-            attendees_graph += attendee_graph
-            print len(attendees_graph)
+            if len(attendee_graph) > 0:
+                orcid_count += 1
+                attendees_graph += attendee_graph
     f.close()
+    print orcid_count, "Attendees with ORCiD"
     print "Write", len(attendees_graph), "triples to file"
     triples_file = open('attendees.rdf', 'w')
     print >>triples_file, attendees_graph.serialize(format='n3')
