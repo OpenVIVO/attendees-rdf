@@ -72,6 +72,8 @@ def make_attendee(data_line):
     attendee['orcid'] = attendee['orcid'].strip('/')
     if len(attendee['orcid']) > 0 and attendee['orcid'][0] != '0':
         raise ValueError(attendee)
+
+
     return attendee
 
 
