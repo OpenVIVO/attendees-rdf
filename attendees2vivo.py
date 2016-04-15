@@ -30,6 +30,7 @@ VIVO = Namespace('http://vivoweb.org/ontology/core#')
 FOAF = Namespace('http://xmlns.com/foaf/0.1/')
 OBO = Namespace('http://purl.obolibrary.org/obo/')
 VCARD = Namespace('http://www.w3.org/2006/vcard/ns#')
+OWL = Namespace('http://www.w3.org/2002/07/owl#')
 
 # Setup logging
 
@@ -73,7 +74,6 @@ def make_attendee(data_line):
     if len(attendee['orcid']) > 0 and attendee['orcid'][0] != '0':
         raise ValueError(attendee)
 
-
     return attendee
 
 
@@ -89,10 +89,14 @@ def make_attendee_rdf(attendee, event_uri):
 
     if 'orcid' in attendee and len(attendee['orcid']) > 0:
         print attendee['orcid']
+
         attendee_uri = URIRef(attendee_prefix + attendee['orcid'])
         g.add((attendee_uri, RDF.type, FOAF.Person))
         g.add((attendee_uri, RDFS.label, Literal(attendee['full_name'].strip())))
-        g.add((attendee_uri, VIVO.orcidId, Literal(orcid_prefix + attendee['orcid'], datatype=XSD.anyURI)))
+
+        orcid_uri = URIRef(orcid_prefix + attendee['orcid'])
+        g.add((orcid_uri, RDF.type, OWL.Thing))
+        g.add((attendee_uri, VIVO.orcidId, orcid_uri))
 
         #   Make a vcard for the attendee.  The vcard has the name of the attendee
 
