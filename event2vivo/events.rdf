@@ -42,4 +42,22 @@
     ns1:rank 1 ;
     ns3:url "http://vivoconference.org"^^xsd:anyURI .
 
+<http://openvivo.org/a/eventVIVOUG1> a <http://purl.org/ontology/bibo/Conference> ;
+    rdfs:label "VIVO User Group Meeting #1" ;
+    ns2:ARG_2000028 <http://openvivo.org/a/eventVIVOUG1-vcard> ;
+    ns1:dateTimeInterval <http://openvivo.org/a/eventVIVOUG1-dti> .
+
+<http://openvivo.org/a/eventVIVOUG1-dti> a ns1:dateTimeInterval ;
+    ns1:end <http://openvivo.org/a/date2016-05> ;
+    ns1:start <http://openvivo.org/a/date2016-05-05> .
+
+<http://openvivo.org/a/eventVIVOUG1-vcard> a ns3:Kind ;
+    ns2:ARG_2000029 <http://openvivo.org/a/eventVIVOUG1> ;
+    ns3:hasURL <http://openvivo.org/a/eventVIVOUG1-vcard-url> .
+
+<http://openvivo.org/a/eventVIVOUG1-vcard-url> a ns3:URL ;
+    rdfs:label "Conference Home Page" ;
+    ns1:rank 1 ;
+    ns3:url "http://vivousergroup.eventbrite.com"^^xsd:anyURI .
+
 

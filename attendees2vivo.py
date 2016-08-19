@@ -128,7 +128,7 @@ def make_attendee_rdf(attendee, event_uri):
 
 if __name__ == '__main__':
     attendees_graph = Graph()
-    event_uri = URIRef('http://openvivo.org/a/eventFORCE2016')
+    event_uri = URIRef('http://openvivo.org/a/eventVIVO2016')
     count = 0
     orcid_count = 0
     f = open('attendees.txt', 'rU')
