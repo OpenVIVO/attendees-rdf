@@ -10,13 +10,13 @@
 """
 
 from rdflib import Graph, Literal, Namespace, URIRef
-from rdflib.namespace import RDFS, RDF, XSD
+from rdflib.namespace import RDFS, RDF
 import logging
 
 __attendee__ = "Michael Conlon"
-__copyright__ = "Copyright 2016 (c) Michael Conlon"
+__copyright__ = "Copyright 2017 (c) Michael Conlon"
 __license__ = "Apache License 2.0"
-__version__ = "0.02"
+__version__ = "0.03"
 
 #   Constants
 
@@ -43,7 +43,7 @@ def make_attendee(data_line):
     attendee = dict(zip(['full_name', 'company', 'orcid', 'optout'], data_line.split('\t')))
     
     attendee['optout'] = attendee['optout'].strip('\n')
-    if attendee['optout'] != 'No':
+    if attendee['optout'].lower() != 'no':
         return None
 
     name_parts = [x.strip('.') for x in attendee['full_name'].split(' ')]
@@ -55,14 +55,10 @@ def make_attendee(data_line):
         attendee['given_name'] = name_parts[0]
         attendee['additional_name'] = ''
         attendee['family_name'] = name_parts[1]
-    elif len(name_parts) == 3:
-        attendee['given_name'] = name_parts[0]
-        attendee['additional_name'] = name_parts[1]
-        attendee['family_name'] = name_parts[2]
     else:
         attendee['given_name'] = name_parts[0]
-        attendee['additional_name'] = name_parts[1]
-        attendee['family_name'] = name_parts[2:]
+        attendee['additional_name'] = ''
+        attendee['family_name'] = ' '.join(name_parts[1:])
 
     attendee['full_name'] = attendee['family_name'] + ', ' + attendee['given_name'] + ' ' + attendee['additional_name']
     attendee['full_name'].strip()
@@ -73,7 +69,7 @@ def make_attendee(data_line):
     attendee['orcid'] = attendee['orcid'].strip('/')
     if len(attendee['orcid']) > 0 and attendee['orcid'][0] != '0':
         raise ValueError(attendee)
-
+    print attendee
     return attendee
 
 
@@ -128,7 +124,7 @@ def make_attendee_rdf(attendee, event_uri):
 
 if __name__ == '__main__':
     attendees_graph = Graph()
-    event_uri = URIRef('http://openvivo.org/a/eventVIVO2016')
+    event_uri = URIRef('http://openvivo.org/a/eventVIVO2017')
     count = 0
     orcid_count = 0
     f = open('attendees.txt', 'rU')
